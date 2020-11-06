@@ -5,7 +5,6 @@ int main()
 {
 	cout<<"how are you guys";
 	cout<<"in dev branch";
-	cout<<"hi";
-	cout<<"hello";
+	cout<<"hola";
 	return 0;
 }
