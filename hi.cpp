@@ -10,5 +10,6 @@ int main()
 	cout<<"miss";
 	cout<<"hello world";
 	cout<<"not avaliable";
+	cout<<"by ye";
 	return 0;
 }
