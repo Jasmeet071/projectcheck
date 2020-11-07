@@ -9,5 +9,6 @@ int main()
 	cout<<"hi";
 	cout<<"miss";
 	cout<<"hello world";
+	cout<<"not avaliable";
 	return 0;
 }
